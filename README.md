@@ -1,6 +1,6 @@
 Olá! :sunglasses:
 
-Sou Téc de informatca formado desde 2006 e programador Front-End, atualmente estou criando projetos com:
+Sou Téc. de informática formado desde 2006 e programador Front-End, atualmente estou criando projetos com:
 <br>
 <br>
 
